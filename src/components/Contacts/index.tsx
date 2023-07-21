@@ -49,8 +49,7 @@ export const Contacts = () => {
                   My Whatsapp
                 </Text>
                 <Text color="grey2" type="body2">
-                  I'm available for a voice chat, let's about creativity
-                  together?
+                  I'm available contact, let's about your project together?
                 </Text>
                 <Text
                   as="a"
