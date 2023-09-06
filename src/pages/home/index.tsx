@@ -58,7 +58,7 @@ export const Home = (): JSX.Element => {
               A showcase of my portfolio
             </Text>
             <Text type="body1" color="grey2">
-              Check the technologies i'm using and my latest projects
+            Proficiency in technologies: HTML, CSS, JavaScript, React, TypeScript, Python, Git, GitHub, Express, TypeORM, PostgreSQL. Experience with Front-End libraries such as Axios, React Router, React Hook Form, Styled Components, Yup, Zod. Familiarity with the Django framework. Knowledge of the Scrum methodology. Advanced English skills for reading, writing, and conversation.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
